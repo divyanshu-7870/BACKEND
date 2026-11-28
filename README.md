@@ -77,7 +77,7 @@ The links below take you to the corresponding experiment folders. Where an HTML 
 | **Experiments 9–11** | JavaScript / web practical work with data files | [Open folder](./Lab/Experiment-9_10_11/) | [index.html](./Lab/Experiment-9_10_11/index%20%281%29.html) |
 | **Experiment 12** | Node.js and Express practical | [Open folder](./Lab/Experiment12/) | — |
 | **Experiment 13** | MongoDB and Mongoose setup | [Open folder](./Lab/Experiment13/) | — |
-| **Experiment 15** | Django To-Do application | [Open folder](./Lab/Experiment-15/) | [Templates folder](./Lab/Experiment-15/django_todo_app/templates/) |
+| **Experiment 15** | Django To-Do application | [Open folder](./Lab/Experiment-15/) | [Experiment 15 Guide](./Lab/Experiment-15/README.md) |
 
 ### Mini Project: Blog CMS
 
